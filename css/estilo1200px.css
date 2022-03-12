@@ -1,0 +1,154 @@
+
+*{  
+	font-family: 'Josefin Sans', sans-serif;
+	text-decoration: none;
+	box-sizing: border-box;
+	margin: 8px;
+	padding: 0;
+}
+
+
+//* start botonera - img logo *//
+
+header{
+	height: 30vh;
+	background-color: #FBF3E4;
+	display: block;
+}
+
+header nav {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+}
+
+header nav a img{
+	width: 100%;
+}
+
+
+header nav ul{
+	font-family: 'Josefin Sans', sans-serif;
+	list-style: none;
+	width: 45%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+
+header nav ul li:hover{
+	color: black;
+	font-weight: 600;
+}
+
+//* ends botonera - img logo *//
+
+body{
+	background-attachment: fixed;
+	box-sizing: border-box;
+
+}
+
+
+
+
+
+
+.none{
+	display: none;
+}
+
+/*  start inside section   */
+
+
+h1{
+
+}
+
+section div div ul{
+	font-size: 1.4rem;
+	    padding-top: 70px;
+}
+
+section{
+	height: 80vh;
+	justify-items: center;
+
+}
+
+
+.presentation{
+	margin-top: 200px;
+	display: flex;
+	justify-content: space-around;
+	flex-direction: row;
+
+	
+
+}
+
+.galleryContainer{
+	
+
+}
+.title{
+	
+
+}
+
+.presentation>.title{
+
+	
+	
+}
+.presentation>.galleryContainer{
+	width: 50%;
+}
+
+.image{
+	width: 100%;
+}
+
+.phoenixEncuadernados{
+	color: red;
+	text-align: center;
+	line-height: 4rem;
+	font-size: 2.7rem;
+}
+
+
+
+
+
+
+
+
+/* ends inside section */
+
+/* starts footer */
+
+
+footer{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	height: 20vh;
+	
+}
+
+footer a{
+	display: flex;
+	justify-content: center;
+}
+
+footer a img{
+	width: 10%;
+}
+
+}*/
+
+
+/* ends footer */
+
